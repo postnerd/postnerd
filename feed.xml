@@ -3,30 +3,10 @@
     <title>postnerd.de</title>
     <link href="http://www.postnerd.de/feed.xml" rel="self" />
     <link href="http://www.postnerd.de" />
-    <updated>2020-04-02T15:50:26+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Martin Schreiber</name>
     </author>
     <id>http://www.postnerd.de</id>
 
-    <entry>
-        <title>Hello World</title>
-        <author>
-            <name>Martin Schreiber</name>
-        </author>
-        <link href="http://www.postnerd.de/hello-world.html"/>
-        <id>http://www.postnerd.de/hello-world.html</id>
-
-        <updated>2020-04-02T15:50:21+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Nothing more to say!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Nothing more to say!
-            ]]>
-        </content>
-    </entry>
 </feed>

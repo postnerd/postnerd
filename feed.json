@@ -9,19 +9,5 @@
         "name": "Martin Schreiber"
     },
     "items": [
-        {
-            "id": "http://www.postnerd.de/hello-world.html",
-            "url": "http://www.postnerd.de/hello-world.html",
-            "title": "Hello World",
-            "summary": "Nothing more to say!",
-            "content_html": "Nothing more to say!",
-            "author": {
-                "name": "Martin Schreiber"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-04-02T15:50:21+02:00",
-            "date_modified": "2020-04-02T15:50:21+02:00"
-        }
     ]
 }
